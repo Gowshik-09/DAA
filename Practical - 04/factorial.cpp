@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 // Iterative factorial
 float fact(float n){
     int fact = 1;
